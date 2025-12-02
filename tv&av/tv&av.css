@@ -1,0 +1,91 @@
+body {
+    padding: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tvrow-1 {
+    display: flex ;
+    gap: 20px;
+}
+.tv1 {
+    width: 350px;
+    background-color: #F7F7F7;
+    height: 700px;
+    border-radius: 20px;
+
+}
+.install {
+    color: #0A828D;
+    font-size: 15px;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.tv-1 {
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.inch {
+    margin-left: 30px;
+    margin-top: 70px;
+    font-size: 20px;
+}
+.vision {
+    margin-left: 30px;
+    position: relative;
+    bottom: 15px;
+}
+.star-holder {
+    margin-left: 30px;
+    position: relative;
+    bottom: 18px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.inche-holder {
+    margin-left: 30px;
+}
+.price {
+    margin-left: 30px;
+    margin-top: 50px;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    gap: 20px;
+}
+.dol-price {
+    font-size: 20px;
+}
+.save {
+    color: #1477EB;
+}
+.compare-buy {
+    display: flex;
+    margin-left: 30px;
+    margin-top: 20px;
+    align-items: center;
+    justify-content: space-between;
+}
+.check-com {
+    display: flex;
+    align-items: center;
+    color: #2C2C2C;
+}
+.checkbox {
+    width: 20px;
+    height: 20px;
+}
+.buy {
+    margin-right: 20px;
+    background-color: black;
+    width: 80px;
+    height: 40px;
+    border-radius: 20px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tv-12 {
+      margin-top: 70px;
+    margin-left: 40px;
+}
